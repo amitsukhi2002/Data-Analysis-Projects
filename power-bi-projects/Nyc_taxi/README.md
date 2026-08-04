@@ -1,5 +1,7 @@
 ### 🚕 NYC Taxi Trips Performance Analysis
 
+### Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiYmRlN2I3YjItYmQzYS00MmM4LTk4Y2EtZDk4MTdmMmI1NjQ0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ### 📌 Project Overview
 
 This project delivers a comprehensive, interactive business intelligence dashboard analyzing New York City taxi trip operations using a multi-table dataset from Maven Analytics. Utilizing advanced data modeling and extraction workflows, the project translates massive time-series transit records into high-impact operational insights across revenue streams, seasonal demand cycles, vendor market shares, and passenger behaviors. 
